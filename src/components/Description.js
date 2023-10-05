@@ -8,8 +8,15 @@ function Description() {
         Om Meg
       </Typography>
       <Typography>
-        I en avsideliggende dal, langt unna menneskelig sivilisasjon, bor det et traktortroll.
+        I en avsideliggende dal, langt unna menneskelig sivilisasjon, bor det et traktortroll ved navn Traktor-Tor.
       </Typography>
+      <Typography>Traktor-Tor har en spesiell gave, som gjør at han kan forvandle vanlige traktorer til magiske, produktive landbruksmaskiner. Bønder kommer fra fjern og nær for å søke hjelp fra Traktor-Tor.
+
+    
+      </Typography>
+
+      <Typography>Ta kontakt dersom du også trenger hjelp med din traktor.</Typography>
+
     </Box>
   );
 }
